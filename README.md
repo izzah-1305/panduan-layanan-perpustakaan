@@ -1,8 +1,8 @@
 # panduan-layanan-perpustakaan
 > Prototipe panduan interaktif layanan perpustakaan
-nama : Cesaraihan muahmmad izzah
-Program studi : Teknik Informatika
-semester : 2
+>nama : Cesaraihan muahmmad izzah
+>Program studi : Teknik Informatika
+>semester : 2
 
 ## 1. Masalah yang dipilih
 TODO : 
