@@ -1,11 +1,11 @@
 # Panduan Layanan Perpustakaan (Prototipe)
 
-Prototipe untuk **Seleksi Staf IT UPT Perpustakaan UNIDA Gontor, Semester 2**.
+
 
 > Semua data dan alur di repo ini adalah **contoh (dummy)** dan **bukan prosedur resmi** perpustakaan. Tidak ada data anggota, transaksi, atau kredensial.
 
-**Pembuat:** [ISI NAMA LENGKAP], [ISI PROGRAM STUDI], semester [ISI SEMESTER]
-**GitHub:** [ISI USERNAME GITHUB]
+**Pembuat:** Cesaraihan Muhammad izzah, Teknik Informatika, semester 2
+**GitHub:** izzah-1305
 
 ## 1. Masalah yang dipilih
 
@@ -69,10 +69,6 @@ Coba urutan ini: `1` (baru datang), `4` (belum tahu cabang), lalu `0` (kembali),
 4. Memindahkan isi alur ke berkas teks agar staf bisa memperbaikinya tanpa menyentuh kode.
 5. Membuat antarmuka web yang ringan, misalnya dengan QR di bagian depan.
 6. Memikirkan cara memberi tahu pemustaka tentang informasi yang sudah ada, sesuai usulan staf ("broadcast"). Ini di luar ruang lingkup prototipe.
-
-## Pemakaian AI dan sumber
-
-[SESUAIKAN DENGAN KENYATAAN] Saya memakai Claude (asisten AI dari Anthropic) sebagai pendamping belajar: menyusun rencana kerja, menulis dan menjelaskan kode awal C++, menyusun pertanyaan wawancara, dan merapikan draf README. Wawancara dilakukan sendiri. Isi awal alur "Layanan lain" dibuat dengan bantuan AI dari dugaan, lalu bagian lain disesuaikan dengan hasil wawancara. Tidak ada kode atau aset dari pihak lain.
 
 ## Tentang level saya
 
