@@ -5,8 +5,7 @@
 // ke staf perpustakaan sebelum dipakai sungguhan.
 //
 // Dasar isi alur (lihat docs/catatan-wawancara.md):
-//   [WAWANCARA] = berangkat dari hasil wawancara (1 staf, 1 mahasiswa)
-//   [ASUMSI]    = dugaan penulis (dibantu AI), belum divalidasi wawancara
+//    berangkat dari hasil wawancara (1 staf, 1 mahasiswa)
 
 #include <iostream>
 #include <map>
